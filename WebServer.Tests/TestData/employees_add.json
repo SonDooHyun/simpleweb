@@ -1,0 +1,5 @@
+[
+	{ "name": "이서영", "email": "seoyoung.lee@tmail.com", "tel": "01012345978", "joined": "2018-08-21" },
+	{ "name": "손이진", "email": "ijin.son@tmail.com", "tel": "01077777777", "joined": "2017-06-12" },
+	{ "name": "손이안", "email": "ian.son@tmail.com", "tel": "01077771234", "joined": "2017-06-12" }
+]

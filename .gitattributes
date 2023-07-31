@@ -1,0 +1,9 @@
+*.pdb lfs
+*.mdb lfs
+*.zip lfs
+*.7z lfs
+*.gz lfs
+*.rar lfs
+*.tar lfs
+*.so filter=lfs diff=lfs merge=lfs -text
+*.bundle filter=lfs diff=lfs merge=lfs -text
