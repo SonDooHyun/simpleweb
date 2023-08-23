@@ -1,4 +1,4 @@
 # WebEmployee
 
-## POST API Å×½ºÆ®½Ã 
- ../CLOWebServer.Tests/TestData ¾ÈÀÇ employee.csv, employee.json Àû¿ëÇÏ½Ã¸é µË´Ï´Ù.
+## POST API í…ŒìŠ¤íŠ¸ì‹œ 
+ ../WebServer.Tests/TestData ì•ˆì˜ employee.csv, employee.json ì ìš©í•˜ì‹œë©´ ë©ë‹ˆë‹¤.
